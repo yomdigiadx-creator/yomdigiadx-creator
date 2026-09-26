@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali
 
-<!--
-**yomdigiadx-creator/yomdigiadx-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 IT Manager | Network & Server Administration | WordPress Developer
 
-Here are some ideas to get you started:
+I manage complete IT infrastructure at a glass manufacturing company — networking, CCTV systems, servers, Active Directory, backups, and printers. Alongside that, I run **ProNet IT Solutions**, offering freelance IT services and WordPress development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 ProNet IT Solutions
+### 🌐 My Websites
+- 🔗 ProNet IT Solutions: [https://pronetitsolutions.com](https://pronetitsolutions.com)
+- 🔗 dietfitai: [https://dietfitai.site](https://dietfitai.site)
+- 🔗 memeshelf: [https://memeshelf.fun](https://memeshelf.fun)
+- 🔗 dailylifetools: [https://dailylifetools.online](https://dailylifetools.online)
+
+**Services:**
+- Network Administration & Setup
+- Server & Active Directory Management
+- CCTV Installation & Maintenance
+- WordPress Website Development
+- IT Troubleshooting & Support
+
+### 📺 YouTube
+Tech/IT content — check out my channel: [YouTube link]
+
+---
+📩 Contact: your-email@example.com
