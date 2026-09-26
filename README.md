@@ -19,7 +19,7 @@ I manage complete IT infrastructure at a glass manufacturing company — network
 - IT Troubleshooting & Support
 
 ### 📺 YouTube
-Tech/IT content — check out my channel: [[YouTube link](https://www.youtube.com/@pronetitsolutions)]
+Tech/IT content — check out my channel: YouTube-> (https://www.youtube.com/@pronetitsolutions)
 
 ---
 📩 Contact: info@pronetitsolutions.com
